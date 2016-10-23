@@ -1,0 +1,33 @@
+  body{
+  background-color: black;
+  color:#e6e6e6;
+  font-family: Calibri, sans-serif;
+  font-size: 1.05em;
+  }
+  h1, h2 {
+  text-align: center;
+  page-break-before: always;
+  margin-bottom: 3%;
+  margin-top: 3%;
+  font-weight:bold;
+}
+ol, ul {
+  padding-left: 5%;
+}
+hr {
+  color: black;
+  background-color: black;
+  height: 4px;
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+a:active {
+  text-decoration: none;
+}
