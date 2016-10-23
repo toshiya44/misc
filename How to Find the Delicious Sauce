@@ -1,0 +1,75 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <title>How to Find the Delicious Sauce</title>
+  <style>
+  body{
+  background-color: black;
+  color:#e6e6e6;
+  font-family: Calibri, sans-serif;
+  font-size: 1.05em;
+  }
+  h1, h2 {
+  text-align: center;
+  page-break-before: always;
+  margin-bottom: 3%;
+  margin-top: 3%;
+  font-weight:bold;
+}
+ol, ul {
+  padding-left: 5%;
+}
+hr {
+  color: black;
+  background-color: black;
+  height: 4px;
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+a:active {
+  text-decoration: none;
+}
+</style>
+</head>
+
+<body>
+<h1>How to Find the Delicious Sauce</h1>
+<p style="text-indent:2%;">The stuff listed here aren't the only way to get the source of an image, but if you’re really new you can start here and slowing start learning how to do shit.</p>
+<br />
+<h1 style="color:#6666ff;">Basic Mode</h1>
+<ol>
+<li> Is the image cropped? If yes, you might be out of luck, but still try to search anyways. Google Reverse search is good for that.</li>
+<li> Go to <span style="font-weight:bold;"><a href="https://iqdb.org/">https://iqdb.org/</a></span></li>
+<li> Upload the image or put the direct link of the image and hit submit. Don't use images that are too small (thumbnails). Make sure that all the databases are checked.</li>
+<li> If you get your sauce in the next page then that's great.</li>
+<li> If not, click the options for Google Image search, Tineye and SauceNao. Note that if you use them to do a image search through iqdb, it will do the search with a thumbnail, so you may not get decent results. If you don’t get results, just go those sites and search from there. Also, read the “Extra tips for Google Reverse Search” section.</li>
+<li> SauceNao is pretty good for artworks such as doujins and arts posted on pixiv.</li>
+<li> From my experience, Tineye could find full versions of cropped images to some degree. You really have to fiddle with these sites to get an idea of how to use them.</li>
+<li> Google images is good for searching screencaps, getting bigger versions of images you have at hand and finding full versions of cropped images to some degree.</li>
+<li> Google image search through iqdb works on phones, so you don't have the "I'm not on pc/browser not good enough" excuse. Also see the “Extra tips for Google Reverse Search” section.</li>
+<ol>
+<hr />
+<br />
+<h2 style="color:#6666ff;">A few other search engines:</h2>
+<p><span style="font-weight:bold;">https://whatanime.ga/</span><br /><br /></p>
+<p style="font-weight:bold;color:#6666ff;">Extra tips for Google Reverse Search and whatanime.ga :</p>
+<p style="text-indent:2%;">If you're on a phone and for some reason can't access iqdb, do the following:</p>
+<ol>
+<li> Upload the image to an image hosting site (imgur is a good one). Skip this step if you already have a direct link of the image.</li>
+<li> Get the direct link of the image.</li>
+<li> Put the url in place of URLHERE of this url, <span style="font-weight:bold;">https://www.google.com/searchbyimage?image_url=URLHERE&amp;safe=off
+<br /><span style="font-weight:bold;">https://whatanime.ga/?url=URLHERE</span></li></ol>
+<p style="text-indent:2%;">This likely works on other search engines as well. You should try them on your free time.</p>
+<br /><br />
+<p style="text-indent:2%;">If everything above fails, ask the person who posted the image. If you can't do that for some reason, then go somewhere you frequent to, and ask. Remember to ask politely and mention that you already tried to find it.</p>
+<p>There's an official image search extension made by saucenao, and it is available for both Chrome and Firfox. You can learn more about it in <b><a href="http://saucenao.com/tools/">SauceNAO's site</a></b>.  <a href="https://addons.mozilla.org/en-US/firefox/addon/image-search-options/">Firefox addon page</a></p>
+    <p>&nbsp;</p>
+    </body>
+</html>
